@@ -1,0 +1,11 @@
+allure-report
+/report
+/reports_allure
+ffmpeg.log
+gemfile.lock
+debug.log
+*.yml
+*.txt
+*.json
+*.exe
+*.html
